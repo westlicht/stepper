@@ -1,0 +1,4 @@
+col, list, position_led, position_led_off.bmp, position_led_on.bmp
+col, list, midi_led, position_led_off.bmp, position_led_on.bmp
+col, list, tie_button, tie_button_off.bmp, tie_button_on.bmp
+col, list, module_minimize, minimized_off.bmp, minimized_on.bmp
